@@ -1,6 +1,6 @@
 # Medical Image Processor and Classifier
 
-This project is a Python-based medical imaging processor that provides a set of tools for loading, processing, classifying, and saving medical images.
+This project is a Python-based medical imaging processor that provides a set of tools for loading, processing , classifying, and saving medical images.
 
 ## Project Structure
 
