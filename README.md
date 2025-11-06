@@ -1,6 +1,6 @@
 # Medical Image Processor and Classifier
 
-This project (Group-4-Assignment-Python-For-Medical-Imaging-Processing) is  a Python based medical imaging processor that provides a set of tools for loading, processing, classifying, and saving medical images.
+This project (Group-4-Assignment-Python-For-Medical-Imaging-Processing) is  a Python based medical imaging processor that provides a set of tools for loading, processing, classifying and saving medical images.
 
 ## Project Structure
 
@@ -38,7 +38,7 @@ This project (Group-4-Assignment-Python-For-Medical-Imaging-Processing) is  a Py
 
    This will process chest x-ray images and save them into `Normal` and `Pneumonia` subdirectories based on the classification.
 
-## How to Run Tests
+## How to Run the Tests
 
 To run the tests, use the following command:
 
