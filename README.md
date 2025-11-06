@@ -1,6 +1,6 @@
 # Medical Image Processor and Classifier
 
-The project is a Python-based medical imaging processor that provides a set of tools for loading, processing, classifying and saving medical images.
+This Python project offers a suite of tools for medical image loading, processing, classification, and saving.
 
 ## Project Structure
 
@@ -36,7 +36,7 @@ The project is a Python-based medical imaging processor that provides a set of t
    python main.py --input images --output output
    ```
 
-   This will process chest x-ray images and save them into `Normal` and `Pneumonia` subdirectories based on the classification.
+   Classifies chest x-ray images and saves them into `Normal` and `Pneumonia` subdirectories.
 
 ## How to Run Tests
 
