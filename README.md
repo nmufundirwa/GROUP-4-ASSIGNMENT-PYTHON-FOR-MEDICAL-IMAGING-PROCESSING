@@ -31,12 +31,11 @@ This project is a Python-based medical imaging processor that provides a set of 
    ```
 
 2. **Run the application:**
-
    ```bash
    python main.py --input images --output output
    ```
 
-   This  will  process  chest x-ray  images and  save  them  into  `Normal` and `Pneumonia`  subdirectories  based  on  the  classification.
+  This  will  process  chest x-ray  images and  save  them  into  `Normal` and `Pneumonia`  subdirectories  based  on  the  classification.
 
 ## How to Run Tests
 
