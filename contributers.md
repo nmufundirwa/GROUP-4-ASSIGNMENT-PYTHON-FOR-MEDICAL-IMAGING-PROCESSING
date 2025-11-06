@@ -6,6 +6,6 @@
 ```markdown
 # Contributors
 
-- **Natasha Mufundirwa** — Documentation, image filtering pipeline  
-- **Betty** — Image loader module  
-- **Ruvarashe** — Image processor and filters
+- Natasha Mufundirwa — Documentation, image filtering pipeline  
+- Betty — Image loader module  
+- Ruvarashe — Image processor and filters
