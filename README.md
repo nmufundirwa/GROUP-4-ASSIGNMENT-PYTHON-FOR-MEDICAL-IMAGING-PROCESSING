@@ -2,7 +2,7 @@
 
 This Python project offers a suite of tools for medical image loading, processing, classification and saving.
 
-## Project Structure
+## Project Structure 
 
 ```
 ├── .gitignore
