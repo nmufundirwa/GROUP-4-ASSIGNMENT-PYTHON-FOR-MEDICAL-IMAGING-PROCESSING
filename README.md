@@ -1,6 +1,6 @@
 # Medical Image Processor and Classifier
 
-This project is a Python-based medical imaging processor that provides a set of tools for loading, processing, classifying, and saving medical images.
+The project is a Python-based medical imaging processor that provides a set of tools for loading, processing, classifying and saving medical images.
 
 ## Project Structure
 
@@ -40,7 +40,7 @@ This project is a Python-based medical imaging processor that provides a set of 
 
 ## How to Run Tests
 
-To run the tests, use the following command:
+To run the tests use the following command:
 
 ```bash
 python -m unittest discover tests
